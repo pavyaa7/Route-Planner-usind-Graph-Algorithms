@@ -2,7 +2,7 @@
 A graph-based route planning application built in C++ that computes paths between a source and a destination using different graph algorithms. The project models locations as vertices and roads as weighted edges, and supports path discovery through DFS, BFS, and Dijkstra's Algorithm.
 
 ## Features:
-  Graph representation using adjacency lists
+  Graph representation using adjacency lists. \hfill
   Weighted undirected graph support
   Path finding using:
     Depth First Search (DFS)
