@@ -5,8 +5,8 @@ A graph-based route planning application built in C++ that computes paths betwee
  - Graph representation using adjacency lists. 
  - Weighted undirected graph support
  - Path finding using:
-    Depth First Search (DFS)
-    Breadth First Search (BFS)
+    Depth First Search (DFS), 
+    Breadth First Search (BFS) and 
     Dijkstra's Shortest Path Algorithm
  - Path reconstruction from source to destination
  - Graph visualization using Graphviz
